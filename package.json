@@ -1,0 +1,22 @@
+{
+  "name": "bs4starter",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 Starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nahin",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
